@@ -19,7 +19,7 @@ query todosPedidos {
   - query serve apenas para buscas com o conceito imutabilidade.
   - mutation condiz com todas as intenções de alteração de dados.
   - subscription são ações que gostariamos de consumir informações em tempo real, normalmente todo os frameworks de graphql já possuem suporte ao realtime integrado.
-- **Resolve um problema de overfetching que possuimos em API REST ao trazer informações de necessárias e consumindo uma banda além do necessário.**
+- **Resolve um problema de overfetching que possuimos em API REST ao trazer informações desnecessárias e consumindo uma banda além do necessário.**
 
 # Criando projeto
 
