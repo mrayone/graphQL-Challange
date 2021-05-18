@@ -38,3 +38,8 @@ query todosPedidos {
 - criar os resolvers do tipo objeto.
   - declarar os resolvers de cada tipo, Queries e Mutations.
 - Criar mock de repository para mockar base de dados.
+
+# Pontos de melhoria
+
+- Criar integração com banco de dados.
+- Criar front-end para consumir a api.
